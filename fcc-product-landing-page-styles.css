@@ -43,11 +43,11 @@ li a {
   position: relative;
   padding: 150 20 80 20;
   color: rgb(246, 246, 246);
-  margin-top: 150px;
 }
 
 .opacity {
   position: relative;
+  margin-top: 250px;
   background-color: rgba(97, 24, 136, 0.682);
 }
 
