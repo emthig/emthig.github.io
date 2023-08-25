@@ -9,7 +9,6 @@ body {
   font-family:'Lato', Arial, san-serif;
   display: flex;
   flex-direction: column;
-  margin: 100px;
 }
 header {
   position: fixed;
@@ -37,6 +36,7 @@ ul {
 li a {
   text-decoration: none;
   color: rgb(83, 83, 83);
+  padding-right: 10px;
 }
 
 #features {
