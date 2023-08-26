@@ -206,7 +206,7 @@ ol {
 
 #newsletter {
   padding: 30px 0 10px 0;
-  margin-bottom: 10%;
+  margin-bottom: 5%;
 }
 
 footer ul {
@@ -246,7 +246,7 @@ footer p {
   }
 
   #newsletter {
-    margin-bottom: 5%;
+    margin-bottom: 3%;
   }
 }
 
@@ -424,5 +424,9 @@ footer p {
 
   .quote {
     padding: 6% 2% !important;
+  }
+
+  #newsletter {
+    margin-bottom: none;
   }
 }
