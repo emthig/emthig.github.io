@@ -95,11 +95,11 @@ form {
   background-color: white;
   color: rgb(23, 23, 98);
   padding: 35px 15px;
-  margin-top: 50px;
   text-shadow: none;
 }
 
 #form {
+  margin-top: 50px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.29);
 }
 
