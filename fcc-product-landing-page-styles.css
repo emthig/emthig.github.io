@@ -245,6 +245,7 @@ footer p {
 
   #newsletter {
     margin-bottom: 5%;
+    box-shadow: none;
   }
 }
 
@@ -310,6 +311,7 @@ footer p {
 
   #newsletter {
     margin-bottom: 2%;
+    box-shadow: none;
   }
 }
 
@@ -376,6 +378,7 @@ footer p {
 
   #newsletter {
     margin-bottom: 1%;
+    box-shadow: none;
   }
 
   #john {
