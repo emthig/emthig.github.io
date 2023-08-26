@@ -97,6 +97,9 @@ form {
   padding: 35px 15px;
   margin-top: 50px;
   text-shadow: none;
+}
+
+#form {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.29);
 }
 
@@ -204,7 +207,6 @@ ol {
 #newsletter {
   padding: 30px 0 10px 0;
   margin-bottom: 10%;
-  box-shadow: none;
 }
 
 footer ul {
@@ -245,7 +247,6 @@ footer p {
 
   #newsletter {
     margin-bottom: 5%;
-    box-shadow: none;
   }
 }
 
@@ -311,7 +312,6 @@ footer p {
 
   #newsletter {
     margin-bottom: 2%;
-    box-shadow: none;
   }
 }
 
@@ -378,7 +378,6 @@ footer p {
 
   #newsletter {
     margin-bottom: 1%;
-    box-shadow: none;
   }
 
   #john {
