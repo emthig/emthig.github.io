@@ -204,7 +204,7 @@ ol {
 #newsletter {
   padding: 30px 0 10px 0;
   margin-bottom: 10%;
-  box-shadow: none important!;
+  box-shadow: none;
 }
 
 footer ul {
@@ -291,7 +291,7 @@ footer p {
   }
 
   #testimonials p {
-    padding: 10pv 5pv 0 5pv;
+    padding: 10px 5px 0 5px;
     font-size: 1em;
   }
 
