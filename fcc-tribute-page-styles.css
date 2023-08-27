@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(229, 227, 227);
+  font-family: Tahoma, Arial;
+  font-size: 1.2em;
+  text-align: center;
+  color: rgb(47, 43, 43);
+}
+h1 {
+  display: block;
+  font-size: 2.2em;
+}
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+#img-div {
+  background-color: white;
+  padding: 30px 20px;
+  margin: 0;
+  display: block;
+}
+#img-caption {
+  display: block;
+  margin: 15px 0 5px 0;
+}
+ul {
+  display: block;
+  max-width: 100%;
+  margin: 0px auto 60px auto;
+  text-align: left;
+  line-height: 1.6em;
+  list-style: disc outside;
+}
+li {
+  margin: 20px 0;
+}
+#heading {
+  display: block;
+  margin: 70px 0;
+}
+#footing {
+  display: block;
+  font-size: 1em;
+  text-align: center;
+  max-width: 100%;
+  margin: 0 auto;
+}
+p {
+  margin: 30px 1;
+}
